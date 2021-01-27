@@ -1,0 +1,3 @@
+BOT_TOKEN = "1565175331:AAEWW3fIT-S82zlpCb5uS-F7xv3r0t2py28"
+# admin chat_i
+ADMIN_ID = "311788369"
